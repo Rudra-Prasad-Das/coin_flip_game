@@ -1,5 +1,5 @@
 {
-  "name": "coin_game",
+  "name": "coin_flip",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

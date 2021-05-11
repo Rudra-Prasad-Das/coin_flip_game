@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coin_flip_game/static/css/main.556077e5.chunk.css",
+    "main.js": "/coin_flip_game/static/js/main.8259b6d5.chunk.js",
+    "main.js.map": "/coin_flip_game/static/js/main.8259b6d5.chunk.js.map",
+    "runtime-main.js": "/coin_flip_game/static/js/runtime-main.0b6c1a5a.js",
+    "runtime-main.js.map": "/coin_flip_game/static/js/runtime-main.0b6c1a5a.js.map",
+    "static/js/2.3f6dbcc2.chunk.js": "/coin_flip_game/static/js/2.3f6dbcc2.chunk.js",
+    "static/js/2.3f6dbcc2.chunk.js.map": "/coin_flip_game/static/js/2.3f6dbcc2.chunk.js.map",
+    "static/js/3.f5a9e16b.chunk.js": "/coin_flip_game/static/js/3.f5a9e16b.chunk.js",
+    "static/js/3.f5a9e16b.chunk.js.map": "/coin_flip_game/static/js/3.f5a9e16b.chunk.js.map",
+    "index.html": "/coin_flip_game/index.html",
+    "static/css/main.556077e5.chunk.css.map": "/coin_flip_game/static/css/main.556077e5.chunk.css.map",
+    "static/js/2.3f6dbcc2.chunk.js.LICENSE.txt": "/coin_flip_game/static/js/2.3f6dbcc2.chunk.js.LICENSE.txt",
+    "static/media/Heads.82703cf5.jpeg": "/coin_flip_game/static/media/Heads.82703cf5.jpeg",
+    "static/media/Tails.2bc59442.jpeg": "/coin_flip_game/static/media/Tails.2bc59442.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b6c1a5a.js",
+    "static/js/2.3f6dbcc2.chunk.js",
+    "static/css/main.556077e5.chunk.css",
+    "static/js/main.8259b6d5.chunk.js"
+  ]
+}
